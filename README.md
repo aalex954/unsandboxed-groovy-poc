@@ -1,11 +1,6 @@
 # FileBot_CSTI_PoC
 FileBot Client Side Template Injection - ACE/Rev Shell PoC
-
-
-
-
-
-
+Tested with FileBot v5.1.6
 
 
 ## Initial Testing

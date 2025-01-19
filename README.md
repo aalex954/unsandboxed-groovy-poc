@@ -68,9 +68,7 @@ ncat.exe -lvnp 6666
 ![image](https://github.com/user-attachments/assets/d40a6aa4-0498-47fa-8cf0-6bab2a24dac6)
 
 
-## Mitigations
-
-If interpreting user supplied templates/commands, access to certain commands should be limited. 
+## Code
 
 https://github.com/mobeigi/filebot/blob/master/source/net/filebot/format/ExpressionFilter.java
 

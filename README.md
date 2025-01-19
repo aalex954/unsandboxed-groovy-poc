@@ -1,5 +1,6 @@
-# FileBot_CSTI_PoC
-FileBot Client Side Template Injection - ACE/Rev Shell PoC
+# unsandboxed-groovy-poc
+
+Intended but Dangerous Unsandboxed Scripting Feature or Arbitrary Code Execution (ACE) / Code Injection Vulnerability?
 Tested with FileBot v5.1.6
 
 

